@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pandas
+python-dotenv
+groq
+langgraph
+langchain
+langchain-core
+langchain-community
+faiss-cpu
+pymupdf
+plotly
+streamlit
